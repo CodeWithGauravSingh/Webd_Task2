@@ -1,0 +1,91 @@
+<style>
+           
+            
+            .ok{
+            padding-left: 0vw;
+        }
+        .ok2{
+            padding-left: 1vw;
+        }
+        .ok1{
+            padding-left: 4vw;
+        }
+            
+            p.img{
+                display: block;
+            }
+            p.form{
+                text-align: center;
+            }
+            p{
+                text-align: center;
+            }
+            g{
+                text-align: center;
+            }
+            .checked {
+                        color: hsl(71, 100%, 50%);
+                    }
+            p.ex1 {
+              font-size: 50px;
+              text-align: center;
+            }
+            p.ex2 {
+              font-size: 30px;
+            }
+            p.a{
+            word-spacing:10px;
+            }
+            .ex4{
+                
+                -moz-box-align: start;
+                height: 60px;
+                
+            }
+            img{
+                border-radius: 50%;
+            }
+            table.f{
+                border: seashell;
+              
+            }
+            
+            table, th, td {
+            border:1px solid black;}
+            table.center {
+            margin-left: auto; 
+            margin-right: auto;
+            }
+            ul {
+             list-style-position: inside;
+               text-align: center;
+             }
+            h{
+                text-align: right;
+            }
+            k{
+                text-align: right;
+            }
+            .z{
+                background-image: "img3.jpg"  ;
+                background-size: cover;
+            }
+            
+            span.c {
+            display: inline-table;
+            text-align: left;
+            width: 800px;
+            height: 70px;
+            padding: 20px;}
+     
+   
+             span.d {
+            
+             display: inline-table;
+            width: 300px;
+            height: 70px;
+            padding: 2px;
+             }
+             
+ 
+        </style>
